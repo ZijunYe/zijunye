@@ -1,6 +1,6 @@
 
 <div align="center">
-<img align="center" alt="GIF" height="300px" src="runcode.gif"/>
+<img align="center" alt="GIF" height="150px" src="runcode.gif"/>
 
 # Hi! I'm Joy Ye! 👩🏼‍💻 
 [![GitHub Joy](https://img.shields.io/github/followers/ZijunYe?label=follow&style=social)](hhttps://github.com/ZijunYe)
