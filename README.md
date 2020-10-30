@@ -15,6 +15,8 @@ Studying **Computer Science** & **Data Science** at
  
  Interested in **Web design & development** , **Al**, **Alogrithms** and **Database**
  
- <img align="center" height="270px" src="code.gif"/>
+ <img align="center" height="350px" src="code.gif"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZijunYe&hide=TeX&layout=compact)![Github Stats](https://github-readme-stats.vercel.app/api?username=ZijunYe&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZijunYe&hide=TeX&layout=compact)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ZijunYe&count_private=true&show_icons=true&include_all_commits=true)
