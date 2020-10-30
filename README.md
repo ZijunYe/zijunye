@@ -1,6 +1,6 @@
 
 <div align="center">
-<img align="center" alt="GIF" height="150px" src="runcode.gif"/>
+<img align="center" alt="GIF" height="270px" src="runcode.gif"/>
 
 # Hi! I'm Joy Ye! 👩🏼‍💻 
 [![GitHub Joy](https://img.shields.io/github/followers/ZijunYe?label=follow&style=social)](hhttps://github.com/ZijunYe)
@@ -9,10 +9,10 @@
 
 My Chinese name is **叶子均**🌱
 
-Currently Studying **Computer Science** & **Data Science** at 
+Studying **Computer Science** & **Data Science** at 
 <a href src="https://www.uottawa.ca/en">University of Ottawa</a>🎓
 
- love **problem-solving** and **coding**  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ I love **problem-solving** and **coding**  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZijunYe&hide=TeX&layout=compact)
 
