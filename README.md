@@ -4,7 +4,7 @@
 # Hi! I'm Zijun Ye! 👩🏼‍💻 
 [![GitHub Joy](https://img.shields.io/github/followers/ZijunYe?label=follow&style=social)](hhttps://github.com/ZijunYe)
 [![Linkedin: Joy Ye](https://img.shields.io/badge/-joyyezi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyyezi/)](https://www.linkedin.com/in/joyyezi/)
-[![Instagram Badge](https://img.shields.io/badge/coderzijun-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://instagram.com/coderzijun/)](https://instagram.com/coderzijun/)
+[![Instagram Badge](https://img.shields.io/badge/zijun-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://instagram.com/_zijunye_/)](https://instagram.com/_zijunye_/)
 
 
 Studying **Computer Science** & **Data Science** at 
