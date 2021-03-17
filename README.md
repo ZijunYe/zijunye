@@ -11,7 +11,7 @@ Studying **Computer Science** & **Data Science** at
 
  I love **problem-solving** and **coding**  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  
- Interested in **Web design & development** , **Al**, **Alogrithms** and **Database**
+ Interested in **Web design & development** 
  
  <img align="center" height="350px" src="code.gif"/>
 
