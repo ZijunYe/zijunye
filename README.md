@@ -21,7 +21,7 @@
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
   <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion%20-%23010101.svg?logo=notion&logoColor=white"></a>  
   <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-  
+  <a href="#"><img alt ="Figma" src ="https://www.google.com/search?q=figma+LOGO+&tbm=isch&ved=2ahUKEwiKqe2V7YjxAhVRSawKHcNmDjkQ2-cCegQIABAA&oq=figma+LOGO+&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgAEENQovoCWPqJA2CpiwNoAHAAeACAAViIAcYDkgEBNpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=8c-_YMrsMNGSsQXDzbnIAw&bih=652&biw=1102&safe=strict#imgrc=LxG3k3_hDNbqtM"></a>
   
   </p>
   
