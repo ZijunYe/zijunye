@@ -8,7 +8,8 @@
 
 🎓I'm currently Studying **Computer Science** & **Data Science** @ 
 <a href src="https://www.uottawa.ca/en">UOttawa</a>
-📫 How to reach me: <a href src ="https://mail.google.com/mail/u/0/#inbox/FMfcgzGkXmWhzWmfGZKxsqLBFQFTVJfk?compose=CllgCJZZzkHdDKvKrhvpVxRFJMNfvSjNjrlJcsXKZdcTqVFLDhSVdpZmsCJwKtMxvfbbHjcNKgV"zijunye001@gmail.com</a>
+  
+📫 How to reach me: <a href src ="https://mail.google.com/mail/u/0/#inbox/FMfcgzGkXmWhzWmfGZKxsqLBFQFTVJfk?compose=CllgCJZZzkHdDKvKrhvpVxRFJMNfvSjNjrlJcsXKZdcTqVFLDhSVdpZmsCJwKtMxvfbbHjcNKgV"> zijunye001@gmail.com</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZijunYe&hide=TeX&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ZijunYe&count_private=true&show_icons=true&include_all_commits=true)
