@@ -8,8 +8,9 @@
 <a href src="https://www.uottawa.ca/en">UOttawa</a>
   
 📫 How to reach me: <a href src ="https://mail.google.com/mail/u/0/#inbox/FMfcgzGkXmWhzWmfGZKxsqLBFQFTVJfk?compose=CllgCJZZzkHdDKvKrhvpVxRFJMNfvSjNjrlJcsXKZdcTqVFLDhSVdpZmsCJwKtMxvfbbHjcNKgV"> zijunye001@gmail.com</a>
+ 
+# 🛠️ Tools & Language 
   
- <hr> 
   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZijunYe&hide=TeX&layout=compact)
