@@ -7,7 +7,7 @@
 🎓I'm currently Studying **Computer Science**  
 <a href src="https://www.uottawa.ca/en">@UOttawa</a>
   
-📑 I'm currently learning full stack development and user interface design.
+📑 I'm currently learning **full stack development** and **user interface design**.
   
 Check out more in my <a href src="https://zijunye.github.io/zijun/"> personal web :> </a> 
   
