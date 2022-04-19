@@ -8,6 +8,7 @@
 <a href src="https://www.uottawa.ca/en">@UOttawa</a>
   
 📑 I'm currently learning full stack development and user interface design.
+  <a href src="https://zijunye.github.io/zijun/"> Here is my personal web :> </a> 
   
 📫 How to reach me: <a href src ="https://mail.google.com/mail/u/0/#inbox/FMfcgzGkXmWhzWmfGZKxsqLBFQFTVJfk?compose=CllgCJZZzkHdDKvKrhvpVxRFJMNfvSjNjrlJcsXKZdcTqVFLDhSVdpZmsCJwKtMxvfbbHjcNKgV"> zijunye001@gmail.com</a>
 
