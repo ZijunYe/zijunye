@@ -3,7 +3,7 @@ I'm a **Computer Science student <a href src="https://www.uottawa.ca/en">@UOttaw
 
 Feel free to connection with me on [![Linkedin Badge](https://img.shields.io/badge/-@Zijun-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zijunye/)](https://www.linkedin.com/in/zijunye/)
 
-I'm actively looking for winter 2023 internship opportunities.
+I'm actively looking for fall 2023 internship opportunities.
 
 ## Tech Skill
 **Language:** Python, Go, Java, C/C++, JavaScript, HTML/CSS, SQL, Scheme, Prolog <br>
