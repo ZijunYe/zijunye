@@ -10,8 +10,3 @@ I'm actively looking for fall 2023 internship opportunities.
 **Frameworks/Tools:** Git & Github, React, Node JS, PostgreSQL, Android Studio, Drupal9, Bootstrap, Microsoft Office
   <br>
 **Design Tools:** Figma, Adobe Xd, Adobe Photoshop <br>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZijunYe&hide=TeX&layout=compact) <br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ZijunYe&count_private=true&show_icons=true&include_all_commits=true)
-
