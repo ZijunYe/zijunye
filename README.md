@@ -12,5 +12,6 @@ I'm actively looking for summer 2024 internship opportunities.
 **Design Tools:** Figma, Adobe Xd, Adobe Photoshop <br>
 
 
-[![Jun's Github Stats](https://github-readme-stats.vercel.app/api?username=zijunye&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zijunye&layout=compact&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zijunye&layout=compact&theme=dracula&langs_count=10&bg_color=00000000)
+
+![zijunye's GitHub stats](https://github-readme-stats.vercel.app/api?username=zijunye&show_icons=true&bg_color=00000000)
