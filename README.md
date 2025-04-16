@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Jun**](https://zijunye.ca), a software developer and designer base in Canada.
+I'm [**Jun**](https://zijunye.ca), a software developer and designer base in Canada 📍
 
 I currently work as a software developer at [**@Trend Micro**](https://github.com/trendmicro), where I help build product related to container security. Previously, I was at [**@RBC**](https://www.rbcroyalbank.com/mortgages/first-time-home-buyers.html) and [**@Morgan Stanley**](https://www.morganstanley.com/).
 
