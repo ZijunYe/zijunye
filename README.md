@@ -9,7 +9,7 @@ Feel free to connect with me on [![Linkedin Badge](https://img.shields.io/badge/
 
 I'm [**Jun**](https://zijunye.ca), a software developer and designer base in Canada.
 
-I currently work as a software developer at [**@Trend Micro**]([https://github.com/google](https://github.com/trendmicro)), where I help build product related to container security. Previously, I was at [**@RBC**](https://www.rbcroyalbank.com/mortgages/first-time-home-buyers.html) and [**@Morgan Stanley**](https://www.morganstanley.com/).
+I currently work as a software developer at [**@Trend Micro**](https://github.com/trendmicro)), where I help build product related to container security. Previously, I was at [**@RBC**](https://www.rbcroyalbank.com/mortgages/first-time-home-buyers.html) and [**@Morgan Stanley**](https://www.morganstanley.com/).
 
 Outside of work, I'm interested in product design. I make fun coding project,run, and photography. 
 
